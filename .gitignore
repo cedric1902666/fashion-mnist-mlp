@@ -1,0 +1,12 @@
+# data & outputs
+data/
+checkpoints/
+results/
+*.npz
+*.npy
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.DS_Store
