@@ -109,3 +109,4 @@ python search_hparams.py --method random --trials 12 --epochs 8 --save_best chec
 ## 许可
 
 仅用于课程作业提交；数据版权归 Fashion-MNIST 原项目说明。
+
